@@ -33,7 +33,7 @@ class HateSpeech:
     def __init__(self, load_weights=False, training=False):
         '''
 
-        HateSpeech model returns binary classification predictions for cover letter text being shortlisted or not.
+        HateSpeech model returns binary classification predictions for tweet containing hate speech or not.
 
         Keyword arguments:
 

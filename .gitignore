@@ -90,5 +90,3 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# input folders
-input/
